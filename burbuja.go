@@ -1,7 +1,7 @@
 package main
 
 
-func burbuja(Lista []int64){
+func Burbuja(Lista []int64){
  var auxiliar int64
  for i := 0; i < len(Lista); i++ {
   for j := 0; j < len(Lista); j++ {
